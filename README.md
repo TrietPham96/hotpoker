@@ -4,6 +4,11 @@
 
 https://hotpoker.vercel.app/
 
+## Main technology used
+
+* Nuxtjs
+* Firebase (Realtime Database)
+
 ## Build Setup
 
 ```bash
@@ -27,11 +32,15 @@ For detailed explanation on how things work, check out the [documentation](https
 
 ### Setting Firebase
 
+![image](https://user-images.githubusercontent.com/29618357/158206877-4875c1a7-faaf-498b-a669-26d4a6c32105.png)
 
+![image](https://user-images.githubusercontent.com/29618357/158206942-5a64eb0b-5bfb-4b3b-810d-f0152dd1dd98.png)
+
+![image](https://user-images.githubusercontent.com/29618357/158207023-98e361aa-d2e2-4090-9b88-1cc9387488cf.png)
 
 ### Deploy Vercel
 
-
+![image](https://user-images.githubusercontent.com/29618357/158206724-3d7e412e-98d5-4f6d-af5f-08b2ee77ee45.png)
 
 ## Special Directories
 
