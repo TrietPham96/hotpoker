@@ -1,5 +1,9 @@
 # hotPoker
 
+## Live demo
+
+https://hotpoker.vercel.app/
+
 ## Build Setup
 
 ```bash
@@ -18,6 +22,16 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
+
+## Guide
+
+### Setting Firebase
+
+
+
+### Deploy Vercel
+
+
 
 ## Special Directories
 
